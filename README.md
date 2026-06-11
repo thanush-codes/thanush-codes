@@ -1,8 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F172A,50:0EA5E9,100:2563EB&text=THANUSH&fontSize=75&fontAlignY=38&fontColor=ffffff&animation=fadeIn"/>
-
-# 👋 Hello, I'm Thanush
+<img src="https://capsule-render.vercel.app/api?type=blur&height=160&color=0:020617,100:2563EB&text=Thanush&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 
 ### Full Stack Developer • Java • Spring Boot • React • Angular
 
