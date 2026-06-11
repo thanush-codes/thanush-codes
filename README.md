@@ -1,38 +1,69 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0ea5e9,100:7c3aed&text=THANUSH&fontSize=80&fontAlignY=38&animation=fadeIn&fontColor=ffffff" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0F172A,50:0EA5E9,100:2563EB&text=THANUSH&fontSize=75&fontAlignY=38&fontColor=ffffff&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=2500&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Java+%7C+Spring+Boot+Developer;React+%7C+Angular+Developer;Building+Modern+Digital+Products;Turning+Ideas+Into+Reality" />
+# 👋 Hello, I'm Thanush
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+### Full Stack Developer • Java • Spring Boot • React • Angular
+
+<p>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Java+%26+Spring+Boot+Developer;React+%26+Angular+Developer;Building+Scalable+Web+Applications;Turning+Ideas+Into+Digital+Products" />
+</p>
+
+<p>
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-Professional-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
 
 </div>
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/212744275-c56a72c2-00e8-4d58-b1ad-bf8a4cbe3942.gif" width="100%">
-
 # 🚀 About Me
 
-<img align="right" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2VvOGE4OHF5eDRvNmJvZmQ5eTZ6MWs2eTQ2MzA5ZmJ5cWRvZXhyYiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlBO7eyXzSZkJri/giphy.gif">
+```yaml
+Name: Thanush
 
-💻 Full Stack Developer
+Role: Full Stack Developer
 
-⚡ Java & Spring Boot Enthusiast
+Frontend:
+  - React.js
+  - Angular
+  - JavaScript
+  - HTML5
+  - CSS3
+  - Bootstrap
 
-🌐 React & Angular Developer
+Backend:
+  - Java
+  - Spring Boot
+  - REST APIs
 
-🗄️ MySQL Database Developer
+Database:
+  - MySQL
 
-🎯 Building Real-World Applications
+Current Focus:
+  - Advanced Spring Boot
+  - SQL Optimization
+  - System Design
+  - Product Development
 
-🚀 Future Startup Founder
-
-🌱 Continuous Learner
+Mission:
+  Build scalable applications that solve real-world problems.
+```
 
 ---
 
-# 🛠 Tech Arsenal
+# 🛠 Tech Stack
 
 <div align="center">
 
@@ -42,96 +73,79 @@
 
 ---
 
-<img src="https://user-images.githubusercontent.com/74038190/216655848-cf4d7bed-52aa-4740-8c67-1832472051ec.gif" width="100%">
+# 💼 Professional Journey
+
+```text
+2024 ────────────────────────────── Java Full Stack Development
+
+2025 ────────────────────────────── Freelance Development Projects
+
+2025 ────────────────────────────── Spring Boot Application Development
+
+2026 ────────────────────────────── Full Stack Product Engineering
+
+Future ─────────────────────────── Startup Founder & Product Builder
+```
+
+---
 
 # 🚀 Featured Projects
-
-### 🛒 E-Commerce Platform
-
-```yaml
-Frontend:
-  - React.js
-  - Bootstrap
-
-Backend:
-  - Spring Boot
-  - REST API
-
-Database:
-  - MySQL
-
-Features:
-  - Product Management
-  - Cart System
-  - Order Management
-  - Image Upload
-```
-
----
-
-### 🏥 Patient Management System
-
-```yaml
-Frontend:
-  - React.js
-
-Backend:
-  - Spring Boot
-
-Database:
-  - MySQL
-
-Features:
-  - Patient Registration
-  - Advanced Filtering
-  - Treatment Tracking
-  - REST APIs
-```
-
----
-
-### 🔐 Authentication System
-
-```yaml
-Features:
-  - JWT Authentication
-  - Secure Login
-  - Registration
-  - Protected Routes
-  - Role Management
-```
-
----
-
-<img src="https://user-images.githubusercontent.com/74038190/212744919-84b68444-0d81-46db-a338-7ec50f3f4d3b.gif" width="100%">
-
-# 🏆 Achievements
 
 <table>
 <tr>
 <td width="50%">
 
-### 🎓 Certifications
+### 🛒 E-Commerce Platform
 
-✅ Typewriting Certification
+Modern full-stack e-commerce solution.
 
-✅ Java Full Stack Development
+#### Features
 
-✅ Web Application Development
+✔ Product Management
+
+✔ Shopping Cart
+
+✔ Order Management
+
+✔ Image Upload System
+
+✔ Responsive Design
+
+#### Technology
+
+React.js
+
+Spring Boot
+
+MySQL
 
 </td>
 
 <td width="50%">
 
-### 💼 Experience
+### 🏥 Patient Management System
 
-✅ Freelance Development Projects
+Healthcare management platform.
 
-✅ Full Stack Applications
+#### Features
 
-✅ REST API Development
+✔ Patient Registration
 
-✅ Database Design
+✔ Advanced Filters
+
+✔ Treatment Tracking
+
+✔ Secure Records
+
+✔ API Integration
+
+#### Technology
+
+React.js
+
+Spring Boot
+
+MySQL
 
 </td>
 </tr>
@@ -139,37 +153,183 @@ Features:
 
 ---
 
-# 🎯 Current Focus
+<table>
+<tr>
+<td width="50%">
+
+### 🔐 Authentication System
+
+Secure authentication solution.
+
+#### Features
+
+✔ JWT Authentication
+
+✔ Login & Registration
+
+✔ Protected Routes
+
+✔ Token Security
+
+✔ User Management
+
+</td>
+
+<td width="50%">
+
+### 🌐 Portfolio Platform
+
+Professional portfolio application.
+
+#### Features
+
+✔ Responsive Design
+
+✔ Project Showcase
+
+✔ Contact Integration
+
+✔ Performance Optimized
+
+✔ Modern UI
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🏆 Achievements
 
 <div align="center">
 
-```diff
-+ Advanced Spring Boot
-+ SQL Mastery
-+ System Design
-+ Aptitude Preparation
-+ Portfolio Development
-+ Startup Building
-```
+| Achievement | Status |
+|------------|--------|
+| Typewriting Certification | ✅ |
+| Java Full Stack Development | ✅ |
+| Web Application Development | ✅ |
+| Freelance Development Projects | ✅ |
+| REST API Development | ✅ |
+| Database Design | ✅ |
 
 </div>
 
 ---
 
-# 🌐 Connect With Me
+# 🎯 Current Focus
+
+```diff
++ Mastering Advanced Spring Boot
+
++ Building Enterprise Applications
+
++ Improving System Design Skills
+
++ Learning SQL Optimization
+
++ Expanding Product Development Knowledge
+
++ Creating High Quality Software Solutions
+```
+
+---
+
+# 📚 Core Competencies
+
+### Backend Development
+
+```java
+Java
+Spring Boot
+REST APIs
+JWT Authentication
+Maven
+```
+
+### Frontend Development
+
+```javascript
+React.js
+Angular
+JavaScript
+HTML5
+CSS3
+Bootstrap
+```
+
+### Database Management
+
+```sql
+MySQL
+SQL Queries
+Database Design
+Data Management
+```
+
+---
+
+# 💡 Development Philosophy
+
+> Build solutions that are scalable, maintainable, and impactful.
+
+> Focus on user experience, clean architecture, and continuous improvement.
+
+> Technology is not just about writing code; it is about solving problems.
+
+---
+
+# 🌍 Services
+
+```yaml
+Available For:
+
+  - Full Stack Development
+
+  - Frontend Development
+
+  - Backend Development
+
+  - REST API Development
+
+  - Database Design
+
+  - Web Application Development
+```
+
+---
+
+# 📈 What I'm Working On
+
+```text
+🔹 Full Stack Web Applications
+
+🔹 Spring Boot APIs
+
+🔹 Enterprise Projects
+
+🔹 Portfolio Enhancement
+
+🔹 Technical Skill Growth
+
+🔹 Startup Ideas & Innovation
+```
+
+---
+
+# 🤝 Connect With Me
 
 <div align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-Let's_Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/Gmail-Send_Message-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GitHub-View_Projects-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </div>
@@ -178,10 +338,12 @@ Features:
 
 <div align="center">
 
-### ⚡ Building Solutions That Matter ⚡
+## ⚡ Building Solutions That Matter
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Code.+Create.+Innovate.;Building+The+Future+One+Project+At+A+Time." />
+### Code • Create • Innovate
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=22&duration=4000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Building+Scalable+Applications;Creating+Modern+Digital+Experiences;Transforming+Ideas+Into+Products" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:0ea5e9,100:7c3aed"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=150&color=0:0F172A,50:0EA5E9,100:2563EB"/>
