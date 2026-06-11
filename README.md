@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=blur&height=160&color=0:020617,100:2563EB&text=Thanush&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=blur&height=140&color=0:020617,100:2563EB&text=Thanush&fontSize=36&fontColor=ffffff&animation=fadeIn"/>
 
-### Full Stack Developer • Java • Spring Boot • React • Angular
+### 🚀 Full Stack Developer • Java • Spring Boot • React • Angular
 
 <p>
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=25&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=900&lines=Full+Stack+Developer;Java+%26+Spring+Boot+Developer;React+%26+Angular+Developer;Building+Scalable+Web+Applications;Turning+Ideas+Into+Digital+Products" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=850&lines=Building+Scalable+Applications;Creating+Modern+Digital+Experiences;Turning+Ideas+Into+Products" />
 </p>
 
 <p>
