@@ -1,99 +1,206 @@
-<h1 align="center">Hi 👋, I'm Thanush</h1>
-<h3 align="center">Full Stack Developer | Java Spring Boot | React.js | Angular</h3>
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;Java+Spring+Boot+Developer;React+%26+Angular+Developer;Building+Modern+Web+Applications" />
-</p>
+# THANUSH
 
----
+### Full Stack Developer • Java • Spring Boot • React • Angular
 
-## 🚀 About Me
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Building+Modern+Web+Applications;Java+Spring+Boot+Developer;React+%26+Angular+Frontend+Developer;Turning+Ideas+Into+Digital+Products" />
 
-- 💻 Full Stack Developer
-- 🌱 Currently learning Advanced Java, SQL & Aptitude
-- 🔥 Building modern web applications using React, Angular & Spring Boot
-- 🎯 Goal: Build impactful products and launch successful startups
-- 📍 India
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+## 👨‍💻 About Me
+
+I am a passionate **Full Stack Developer** focused on building scalable web applications and modern digital experiences.
+
+- 🚀 Developing end-to-end applications using Java & Spring Boot
+- ⚛️ Creating responsive interfaces with React and Angular
+- 🗄️ Designing efficient database solutions with MySQL
+- 🌱 Continuously learning new technologies and best practices
+- 🎯 Aspiring entrepreneur passionate about solving real-world problems through technology
+
+---
+
+## 🛠 Technology Stack
+
+<table>
+<tr>
+<td valign="top" width="50%">
 
 ### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular)
-![HTML5](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
+
+- React.js
+- Angular
+- JavaScript
+- HTML5
+- CSS3
+- Bootstrap
+
+</td>
+
+<td valign="top" width="50%">
 
 ### Backend
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot)
+
+- Java
+- Spring Boot
+- REST API
+- JWT Authentication
+- Maven
+
+</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td valign="top" width="50%">
 
 ### Database
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+
+- MySQL
+- SQL
+
+</td>
+
+<td valign="top" width="50%">
 
 ### Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode)
+
+- Git
+- GitHub
+- VS Code
+- Postman
+- XAMPP
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 📂 Featured Projects
+# 🚀 Featured Projects
 
-### 🛒 E-Commerce Application
-- Spring Boot + React
-- Product Management
-- Order Management
-- Image Upload & Storage
+## 🛒 E-Commerce Platform
 
-### 🏥 Patient Management System
-- Patient Registration
-- Advanced Filters
-- Spring Boot REST APIs
-- React Frontend
+Modern e-commerce application built with React and Spring Boot.
 
-### 🔐 JWT Authentication System
-- Login & Registration
-- Protected Routes
-- Token Authentication
-- Secure Backend APIs
+### Key Features
+
+✔ Product Management
+
+✔ Shopping Cart
+
+✔ Order Processing
+
+✔ Image Upload
+
+✔ Responsive Design
 
 ---
 
-## 🏆 Certifications
+## 🏥 Patient Management System
 
-- 🏅 Typewriting Certification
-- 🏅 Java Full Stack Development
-- 🏅 Web Application Development
+Healthcare management solution for clinics and hospitals.
+
+### Key Features
+
+✔ Patient Registration
+
+✔ Advanced Filtering
+
+✔ Treatment Tracking
+
+✔ REST API Integration
+
+✔ Secure Data Management
 
 ---
 
-## 📊 GitHub Stats
+## 🔐 Authentication System
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
-</p>
+Complete authentication solution.
 
-<p align="center">
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
-</p>
+### Key Features
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
-</p>
+✔ JWT Authentication
+
+✔ Login & Registration
+
+✔ Protected Routes
+
+✔ Role Based Access
+
+✔ Secure APIs
+
+---
+
+# 🏆 Achievements
+
+### 🎓 Certifications
+
+- Typewriting Certification
+- Java Full Stack Development
+- Web Application Development
+
+### 💡 Professional Highlights
+
+- Developed multiple full-stack applications
+- Experience in freelance development projects
+- Strong understanding of frontend and backend technologies
+- Passionate about creating scalable solutions
+
+---
+
+# 🎯 Current Focus
+
+```text
+✓ Advanced Spring Boot
+✓ System Design
+✓ SQL Mastery
+✓ Problem Solving
+✓ Aptitude Preparation
+✓ Portfolio Development
+```
+
+---
+
+# 💼 Services
+
+### Available For
+
+- Full Stack Development
+- Web Application Development
+- REST API Development
+- Frontend Development
+- Backend Development
+- Database Design
 
 ---
 
 ## 🌐 Connect With Me
 
-- LinkedIn: https://linkedin.com/in/YOUR_PROFILE
-- GitHub: https://github.com/YOUR_USERNAME
-- Email: yourmail@example.com
+<p align="center">
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+</p>
 
 ---
 
-<h3 align="center">
-⭐ Turning Ideas Into Scalable Digital Products ⭐
-</h3>
+<div align="center">
+
+### "Building solutions today that create opportunities tomorrow."
+
+</div>
