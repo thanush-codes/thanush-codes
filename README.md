@@ -7,20 +7,24 @@
 <br/><br/>
 
 <a href="https://www.linkedin.com/in/thanush-tech1">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Thanush%20A%20S-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:thanush.tech1@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-thanush.tech1%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/thanush-tech1">
-  <img src="https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-thanush--tech1-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://thanush-tech1.github.io/portfolio/">
   <img src="https://img.shields.io/badge/Portfolio-Visit%20Website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=thanush-tech1&label=Profile%20Views&color=0ea5e9&style=for-the-badge" />
 
 </div>
 
@@ -32,6 +36,10 @@
 Name: Thanush A S
 Role: Java Full Stack Developer
 Location: Coimbatore, Tamil Nadu, India
+
+Education:
+  - Bachelor of Computer Science (2022 - 2025)
+  - Master of Computer Applications (2025 - 2027)
 
 Frontend:
   - React.js
@@ -48,6 +56,14 @@ Backend:
 
 Database:
   - MySQL
+
+Tools:
+  - Git
+  - GitHub
+  - Postman
+  - Docker
+  - IntelliJ IDEA
+  - VS Code
 
 Mission:
   Build scalable applications that solve real-world problems.
